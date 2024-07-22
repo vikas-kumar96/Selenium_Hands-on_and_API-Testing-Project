@@ -98,11 +98,6 @@ To build a Selenium script that automates the following process on the given URL
     git push -u origin master
     ```
 
-## Evaluation Criteria
 
-- **Correctness**: The script successfully logs in and out of the website.
-- **Code Quality**: Code readability, use of functions, and error handling.
-- **Documentation**: Proper comments and explanation of the logic.
 
-## Project Structure
 
